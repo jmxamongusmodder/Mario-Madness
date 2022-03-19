@@ -26,7 +26,6 @@ class FlxVideo extends FlxBasic {
 		{
                     onVLCSkipped();
 		}
-	}
 
 	var player:Video = new Video();
 	player.x = 0;
@@ -51,23 +50,7 @@ class FlxVideo extends FlxBasic {
 		}
 	});
 	netStream.play(name);
-
-	#if desktop
-	// by Polybius, check out PolyEngine! https://github.com/polybiusproxy/PolyEngine
-
-	vlcBitmap = new VlcBitmap();
-	vlcBitmap.set_height(FlxG.stage.stageHeight);
-	vlcBitmap.set_width(FlxG.stage.stageHeight * (16 / 9));
-	vlcBitmap.onComplete = onVLCComplete;
-	vlcBitmap.onError = onVLCError;
-	FlxG.stage.addEventListener(Event.ENTER_FRAME, fixVolume);
-	vlcBitmap.repeat = 0;
-	vlcBitmap.inWindow = false;
-	vlcBitmap.fullscreen = false;
-	fixVolume(null);
-	FlxG.addChildBelowMouse(vlcBitmap);
-	vlcBitmap.play(checkFile(name));
-        #end
+	}
 
 	#if desktop
 	function checkFile(fileName:String):String
@@ -129,10 +112,6 @@ class FlxVideo extends FlxBasic {
 
 		// Clean player, just in case!
 		vlcBitmap.dispose();
-
-                // Psycially remove the video.
-//		netStream.dispose(); // HOW DOES IT NOT RECONIZE WHAT THIS IS???
-		if(FlxG.game.contains(player)) FlxG.game.removeChild(player);
 
                 // Finish callbacking.
 		finishCallback();
