@@ -130,7 +130,7 @@ class FlxVideo extends FlxBasic {
 	{
 		// Adjust Settings
 		vlcBitmap.dispose();
-		vlcBitmap.volume = 0;
+		vlcBitmap.volume = FlxG.sound.volume * 0.5 - 0.5; // kind of a garbiche solution but it works!
 		vlcBitmap.stop();
 
 		if (FlxG.game.contains(vlcBitmap))
