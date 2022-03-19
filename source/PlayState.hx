@@ -12,6 +12,7 @@ import flixel.FlxG;
 import flixel.FlxGame;
 import flixel.FlxObject;
 import flixel.FlxSprite;
+import flixel.input.keyboard.FlxKey;
 import flixel.FlxState;
 import flixel.FlxSubState;
 import flixel.addons.display.FlxGridOverlay;
@@ -269,6 +270,7 @@ class PlayState extends MusicBeatState
 	public static var campaignMisses:Int = 0;
 	public static var seenCutscene:Bool = false;
 	public static var deathCounter:Int = 0;
+	public static var chartingMode:Bool = false;
 
 	public var defaultCamZoom:Float = 1.05;
 
@@ -2715,17 +2717,9 @@ class PlayState extends MusicBeatState
 						
 			}
 
-		if (FlxG.keys.justPressed.SEVEN && !endingSong && !inCutscene && ClientPrefs.carPass)
+		if (FlxG.keys.justPressed.SEVEN)
 		{
-			persistentUpdate = false;
-			paused = true;
-			cancelFadeTween();
-			CustomFadeTransition.nextCamera = camOther;
 			MusicBeatState.switchState(new ChartingState());
-
-			#if desktop
-			DiscordClient.changePresence("Chart Editor", null, null, true);
-			#end
 		}
 
 		// FlxG.watch.addQuick('VOL', vocals.amplitudeLeft);
@@ -3114,8 +3108,15 @@ class PlayState extends MusicBeatState
 		setOnLuas('cameraY', camFollowPos.y);
 		setOnLuas('botPlay', PlayState.cpuControlled);
 		callOnLuas('onUpdatePost', [elapsed]);
-
 		#end
+	}
+
+	function openChartEditor()
+	{
+		persistentUpdate = false;
+		paused = true;
+		MusicBeatState.switchState(new ChartingState());
+		chartingMode = true;
 	}
 
 	var isDead:Bool = false;
