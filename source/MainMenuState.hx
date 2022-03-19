@@ -33,9 +33,7 @@ class MainMenuState extends MusicBeatState
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
 	
-	var optionShit:Array<String> = ['story_mode', 'freeplay', 'credits', 'options'];
-
-	var warpcoso:String = 'warpzone';
+	var optionShit:Array<String> = ['story_mode', 'freeplay', 'credits', 'options', 'warpzone'];
 
 	var fondo11:FlxBackdrop;
 	var magenta:FlxSprite;
@@ -106,7 +104,11 @@ class MainMenuState extends MusicBeatState
 		magenta.visible = false;
 		magenta.antialiasing = ClientPrefs.globalAntialiasing;
 		magenta.color = 0xFFfd719b;
-		optionShit.push(warpcoso);
+	     // magenta.scrollFactor.set();
+             // add(magenta);
+
+		if(ClientPrefs.storyFlaut){
+		trace("these are " + ClientPrefs.iHYPass, ClientPrefs.mXPass, ClientPrefs.warioPass, ClientPrefs.betaPass, ClientPrefs.finish1);
 	    }
 
 		menuItems = new FlxTypedGroup<FlxSprite>();
