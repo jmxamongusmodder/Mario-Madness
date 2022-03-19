@@ -29,9 +29,9 @@ class WarpState extends MusicBeatState
 	private static var canciones:Array<Dynamic> = [ //Name, song name
 		['World 2',		'i-hate-you'],
 		['World 3',		'alone'],
-		['World 4',		'apparition', 'forbidden-star'],
-		['World 5',		'powerdown'],
-		['World 6',		'sussy'],
+		['World 4',		'apparition'],
+		['World 5',		'forbidden-star'],
+		['World 6',		'powerdown'],
 	];
 
 	var bg:FlxSprite;
