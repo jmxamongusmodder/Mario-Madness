@@ -2720,6 +2720,7 @@ class PlayState extends MusicBeatState
 		if (FlxG.keys.justPressed.SEVEN)
 		{
 			MusicBeatState.switchState(new ChartingState());
+		        chartingMode = true;
 		}
 
 		// FlxG.watch.addQuick('VOL', vocals.amplitudeLeft);
