@@ -9,6 +9,7 @@ import vlc.VlcBitmap;
 #end
 import flixel.FlxBasic;
 import flixel.FlxG;
+import Controls;
 
 class FlxVideo extends FlxBasic {
 	#if VIDEOS_ALLOWED
@@ -20,6 +21,11 @@ class FlxVideo extends FlxBasic {
 
 	public function new(name:String) {
 		super();
+
+		if (FlxG.keys.justPressed.SEVEN)
+		{
+                    onVLCSkipped();
+		}
 
 		#if web
 		var player:Video = new Video();
@@ -116,6 +122,20 @@ class FlxVideo extends FlxBasic {
 
 		if (finishCallback != null)
 		{
+			finishCallback();
+		}
+	}
+
+	public function onVLCSkipped()
+	{
+		vlcBitmap.stop();
+
+		// Clean player, just in case!
+		vlcBitmap.dispose();
+
+		if (FlxG.game.contains(vlcBitmap))
+		{
+			FlxG.game.removeChild(vlcBitmap);
 			finishCallback();
 		}
 	}
