@@ -19,12 +19,13 @@ class PauseSubState extends MusicBeatSubstate
 	var grpMenuShit:FlxTypedGroup<Alphabet>;
 
 	var menuItems:Array<String> = [];
-	var menuItemsOG:Array<String> = ['Resume', 'Restart Song', 'Botplay', 'Exit to menu'];
+	var menuItemsOG:Array<String> = ['Resume', 'Restart Song', 'Exit to menu'];
 	var difficultyChoices = [];
 	var curSelected:Int = 0;
 	var autor:String = '';
 
 	var pauseMusic:FlxSound;
+	var chartingText:FlxText; // Charting State yes
 	var botplayText:FlxText;
 
 	public static var transCamera:FlxCamera;
@@ -32,6 +33,14 @@ class PauseSubState extends MusicBeatSubstate
 	public function new(x:Float, y:Float)
 	{
 		super();
+
+		if(PlayState.chartingMode)
+		{
+			menuItemsOG.insert(2, 'Leave Charting Mode');
+
+			var num:Int = 0;
+			menuItemsOG.insert(3 + num, 'Toggle Botplay');
+		}
 		menuItems = menuItemsOG;
 
 		for (i in 0...CoolUtil.difficultyStuff.length) {
@@ -58,6 +67,15 @@ class PauseSubState extends MusicBeatSubstate
 		levelInfo.updateHitbox();
 		add(levelInfo);
 
+		var chartingText:FlxText = new FlxText(20, 15 + 101, 0, "CHARTING MODE", 32);
+		chartingText.scrollFactor.set();
+		chartingText.setFormat(Paths.font('vcr.ttf'), 32);
+		chartingText.x = FlxG.width - (chartingText.width + 20);
+		chartingText.y = FlxG.height - (chartingText.height + 20);
+		chartingText.updateHitbox();
+		chartingText.visible = PlayState.chartingMode;
+		add(chartingText);
+
 		var levelDifficulty:FlxText = new FlxText(20, 15 + 32, 0, "", 32);
 		switch(PlayState.SONG.song)
 		{
@@ -77,6 +95,8 @@ class PauseSubState extends MusicBeatSubstate
 			autor = 'by KennyL';
 			case 'Forbidden Star':
 			autor = 'by KINGF0X';
+			case 'Sussy':
+			autor = 'by Kade';
 		}
 		levelDifficulty.text += autor;
 		levelDifficulty.scrollFactor.set();
@@ -91,13 +111,13 @@ class PauseSubState extends MusicBeatSubstate
 		blueballedTxt.updateHitbox();
 		add(blueballedTxt);
 
-		botplayText = new FlxText(20, FlxG.height - 40, 0, "BOTPLAY", 32);
+/*		botplayText = new FlxText(20, FlxG.height - 40, 0, "BOTPLAY", 32);
 		botplayText.scrollFactor.set();
 		botplayText.setFormat(Paths.font('vcr.ttf'), 32);
 		botplayText.x = FlxG.width - (botplayText.width + 20);
 		botplayText.updateHitbox();
 		botplayText.visible = PlayState.cpuControlled;
-		add(botplayText);
+		add(botplayText);*/
 
 		blueballedTxt.alpha = 0;
 		levelDifficulty.alpha = 0;
@@ -171,9 +191,10 @@ class PauseSubState extends MusicBeatSubstate
 				case "Resume":
 					close();
 				case "Restart Song":
-					CustomFadeTransition.nextCamera = transCamera;
-					MusicBeatState.resetState();
-					FlxG.sound.music.volume = 0;
+					restartSong();
+				case "Leave Charting Mode":
+					restartSong();
+					PlayState.chartingMode = false;
 				case 'Botplay':
 					if(!ClientPrefs.carPass){
 					FlxG.sound.play(Paths.sound('cancelMenu'));
@@ -214,6 +235,14 @@ class PauseSubState extends MusicBeatSubstate
 		pauseMusic.destroy();
 
 		super.destroy();
+	}
+
+	public static function restartSong()
+	{
+		PlayState.instance.paused = true; // For lua
+		FlxG.sound.music.volume = 0;
+		PlayState.instance.vocals.volume = 0;
+		MusicBeatState.resetState();
 	}
 
 	function changeSelection(change:Int = 0):Void
