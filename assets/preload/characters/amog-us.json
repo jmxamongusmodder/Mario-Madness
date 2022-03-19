@@ -1,88 +1,88 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-82,
-				30
+				3
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "sus idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "sus idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-16,
 				30
 			],
-			"anim": "sus left",
+			"loop": false,
 			"fps": 24,
-			"name": "left",
-			"indices": []
+			"anim": "sus left",
+			"indices": [],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-103,
 				39
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sus right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sus right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-90,
 				30
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sus down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sus down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				7,
 				97
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "sus up",
-			"indices": []
+			"indices": [],
+			"name": "sus up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-16,
 				30
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "hai",
-			"fps": 24,
-			"name": "sus hey",
-			"indices": []
+			"indices": [],
+			"name": "sus hey"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-16,
 				30
 			],
-			"anim": "waving",
+			"loop": false,
 			"fps": 24,
-			"name": "sus up",
-			"indices": []
+			"anim": "waving",
+			"indices": [],
+			"name": "sus up"
 		}
 	],
 	"no_antialiasing": true,
 	"image": "characters/sussy_baka_amogus_yes_miniisaminor_datememini_date_me_mini_please_beam_people_with_discord_trolled",
 	"position": [
 		0,
-		390
+		480
 	],
 	"healthicon": "mario",
 	"flip_x": false,
@@ -96,5 +96,5 @@
 		-230
 	],
 	"sing_duration": 4,
-	"scale": 2.8
+	"scale": 10
 }
