@@ -41,6 +41,7 @@ class CustomFreeplayState extends MusicBeatState
 		['I Hate You',		'i-hate-you', '3'],
 		['Powerdown',		'powerdown', '4'],
 		['Apparition',		'apparition', '5'],
+		['Unkown',		'forbidden-star', '0'],
 		['Alone',		'alone', '6'],
 		['???',		'racetraitors', '0']
 	];
@@ -51,6 +52,7 @@ class CustomFreeplayState extends MusicBeatState
 		['I Hate You',		'i-hate-you', '3'],
 		['Powerdown',		'powerdown', '4'],
 		['Apparition',		'apparition', '5'],
+		['Forbidden Star',		'forbidden-star', '5'],
 		['Alone',		'alone', '6'],
 		['Race-traitors',		'racetraitors', '7']
 	];
@@ -102,12 +104,12 @@ class CustomFreeplayState extends MusicBeatState
 		grpOptions = new FlxTypedGroup<Alphabet>();
 		add(grpOptions);
 
-		if (ClientPrefs.iHYPass && ClientPrefs.mXPass && ClientPrefs.warioPass && ClientPrefs.betaPass && !ClientPrefs.carPass)
+		if (ClientPrefs.iHYPass && ClientPrefs.mXPass && ClientPrefs.warioPass && ClientPrefs.betaPass)
 			{
 				canciones = canciones1;
 			}
 
-		else if (ClientPrefs.iHYPass && ClientPrefs.mXPass && ClientPrefs.warioPass && ClientPrefs.betaPass && ClientPrefs.carPass)
+		else if (ClientPrefs.iHYPass && ClientPrefs.mXPass && ClientPrefs.warioPass && ClientPrefs.betaPass)
 			{
 				canciones = canciones2;
 			}

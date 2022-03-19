@@ -106,10 +106,6 @@ class MainMenuState extends MusicBeatState
 		magenta.visible = false;
 		magenta.antialiasing = ClientPrefs.globalAntialiasing;
 		magenta.color = 0xFFfd719b;
-	//	add(magenta);
-		// magenta.scrollFactor.set();
-
-		if(ClientPrefs.storyFlaut){
 		optionShit.push(warpcoso);
 	    }
 
@@ -246,10 +242,6 @@ class MainMenuState extends MusicBeatState
 				{
 					CoolUtil.browserLoad('https://ninja-muffin24.itch.io/funkin');
 				}
-				else if (optionShit[curSelected] == 'freeplay' && !ClientPrefs.storyPass)
-					{
-						FlxG.sound.play(Paths.sound('cancelMenu'));
-					}
 				else
 				{
 					selectedSomethin = true;
@@ -324,11 +316,11 @@ class MainMenuState extends MusicBeatState
 			{
 					ClientPrefs.storyPass = true;
 					ClientPrefs.storyFlaut = true;
-				    ClientPrefs.carPass = true;
-				    ClientPrefs.betaPass = true;
-				    ClientPrefs.iHYPass = true;
-				    ClientPrefs.mXPass = true;
-				    ClientPrefs.warioPass = true;
+				        ClientPrefs.carPass = true;
+				        ClientPrefs.betaPass = true;
+				        ClientPrefs.iHYPass = true;
+				        ClientPrefs.mXPass = true;
+				        ClientPrefs.warioPass = true;
 					ClientPrefs.saveSettings();
 			}
 
