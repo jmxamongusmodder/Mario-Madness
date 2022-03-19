@@ -29,8 +29,9 @@ class WarpState extends MusicBeatState
 	private static var canciones:Array<Dynamic> = [ //Name, song name
 		['World 2',		'i-hate-you'],
 		['World 3',		'alone'],
-		['World 4',		'apparition'],
+		['World 4',		'apparition', 'forbidden-star'],
 		['World 5',		'powerdown'],
+		['World 6',		'sussy'],
 	];
 
 	var bg:FlxSprite;
@@ -218,6 +219,11 @@ class WarpState extends MusicBeatState
 					}});
 		  	case 5:
 				tween = FlxTween.tween(pibemapa, {x: 1147}, 0.2, {onComplete: function(twn:FlxTween)
+					{
+						quieto = false;
+					}});
+		  	case 6: // Why?
+				tween = FlxTween.tween(pibemapa, {x: 1154}, 0.2, {onComplete: function(twn:FlxTween)
 					{
 						quieto = false;
 					}});
