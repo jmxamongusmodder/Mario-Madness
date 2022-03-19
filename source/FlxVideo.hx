@@ -110,10 +110,10 @@ class FlxVideo extends FlxBasic {
 
 	public function onVLCComplete()
 	{
-		// Adjust Settings
-		vlcBitmap.dispose();
-		vlcBitmap.volume = 0;
 		vlcBitmap.stop();
+
+		// Clean player, just in case!
+		vlcBitmap.dispose();
 
 		if (FlxG.game.contains(vlcBitmap))
 		{
@@ -128,14 +128,18 @@ class FlxVideo extends FlxBasic {
 
 	public function onVLCSkipped()
 	{
-		vlcBitmap.stop();
-
-		// Clean player, just in case!
+		// Adjust Settings
 		vlcBitmap.dispose();
+		vlcBitmap.volume = 0;
+		vlcBitmap.stop();
 
 		if (FlxG.game.contains(vlcBitmap))
 		{
 			FlxG.game.removeChild(vlcBitmap);
+		}
+
+		if (finishCallback != null)
+		{
 			finishCallback();
 		}
 	}
