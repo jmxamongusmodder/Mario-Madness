@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sussy_baka_amogus_yes_miniisaminor_datememini_date_me_mini_please_beam_people_with_discord_trolled.png">
+<SubTexture name="sus idle0000" x="0" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="sus hey0000" x="16" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="sus up0000" x="0" y="16" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="sus right0000" x="32" y="16" width="15" height="12" frameX="0" frameY="-4" frameWidth="16" frameHeight="16" />
+<SubTexture name="sus left0000" x="16" y="16" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="sus down0000" x="32" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+</TextureAtlas>
