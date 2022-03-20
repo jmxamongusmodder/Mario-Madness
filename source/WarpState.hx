@@ -153,7 +153,7 @@ class WarpState extends MusicBeatState
 			MusicBeatState.switchState(new MainMenuState());
 		}
 
-		if (controls.NINE)
+		if (controls.SEVEN)
 		{
 			FlxG.sound.music.stop();
 			FlxG.sound.play(Paths.sound('cancelMenu'));
