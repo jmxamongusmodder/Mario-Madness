@@ -55,7 +55,10 @@ class CharacterEditorState extends MusicBeatState
 	var daAnim:String = 'spooky';
 	var goToPlayState:Bool = true;
 	var camFollow:FlxObject;
-	var daStage:String = 'warioland'; // CUSTOM STAGES YAAAAAAAAAAS
+	var daStage:String = 'warioland'; // WIP CUSTOM STAGES YAAAAAAAAAAS
+	var bfext:BGSprite;
+	var bftors:BGSprite;
+	var bgwario:BGSprite;
 
 	public function new(daAnim:String = 'spooky', goToPlayState:Bool = true)
 	{
