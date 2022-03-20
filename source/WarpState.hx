@@ -152,6 +152,13 @@ class WarpState extends MusicBeatState
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			MusicBeatState.switchState(new MainMenuState());
 		}
+
+		if (controls.NINE)
+		{
+			FlxG.sound.music.stop();
+			FlxG.sound.play(Paths.sound('cancelMenu'));
+			MusicBeatState.switchState(new WarpStateAlt());
+		}
 	      super.update(elapsed);
 	}
 
