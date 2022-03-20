@@ -59,6 +59,7 @@ class CharacterEditorState extends MusicBeatState
 	var bfext:BGSprite;
 	var bftors:BGSprite;
 	var bgwario:BGSprite;
+	var bfwario:BGSprite;
 
 	public function new(daAnim:String = 'spooky', goToPlayState:Bool = true)
 	{
