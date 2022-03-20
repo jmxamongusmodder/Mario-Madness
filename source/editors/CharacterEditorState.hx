@@ -55,6 +55,7 @@ class CharacterEditorState extends MusicBeatState
 	var daAnim:String = 'spooky';
 	var goToPlayState:Bool = true;
 	var camFollow:FlxObject;
+	var daStage:String = 'warioland'; // CUSTOM STAGES YAAAAAAAAAAS
 
 	public function new(daAnim:String = 'spooky', goToPlayState:Bool = true)
 	{
@@ -258,13 +259,19 @@ class CharacterEditorState extends MusicBeatState
 			bgTrees.updateHitbox();
 			changeBGbutton.text = "Regular BG";
 		} else {
-			var bg:BGSprite = new BGSprite('stageback', -600 + OFFSET_X - playerXDifference, -300, 0.9, 0.9);
-			bgLayer.add(bg);
 
-			var stageFront:BGSprite = new BGSprite('stagefront', -650 + OFFSET_X - playerXDifference, 500, 0.9, 0.9);
-			stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
-			stageFront.updateHitbox();
-			bgLayer.add(stageFront);
+			bgwario = new BGSprite('mario/Wario/wea_mala_ctm', 180, 100, ['fondo instancia 1'], true);
+			bgwario.setGraphicSize(Std.int(bgwario.width * 2.4));
+			bgwario.antialiasing = ClientPrefs.globalAntialiasing;
+			bgLayer.add(bfwario);
+
+			bftors = new BGSprite('mario/Wario/BoyFriend_Wario_Assets_v3_Body1', 460, 705, ['BF Body Idle 1'], true);
+			bftors.antialiasing = ClientPrefs.globalAntialiasing;
+			bgLayer.add(bftors);
+
+			bfext = new BGSprite('mario/Wario/BoyFriend_Wario_Assets_v3_Body2', 410, 655, ['BF Body Idle 2'], true);
+			bfext.antialiasing = ClientPrefs.globalAntialiasing;
+			bgLayer.add(bfext);
 			changeBGbutton.text = "Pixel BG";
 		}
 	}
