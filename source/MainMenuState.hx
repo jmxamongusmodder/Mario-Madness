@@ -280,6 +280,7 @@ class MainMenuState extends MusicBeatState
 										MusicBeatState.switchState(new StoryMenuState());
 									case 'freeplay':
 										MusicBeatState.switchState(new CustomFreeplayState());
+                                                                                PlayState.isFree = true;
 									case 'awards':
 										MusicBeatState.switchState(new AchievementsMenuState());
 									case 'credits':
@@ -288,6 +289,7 @@ class MainMenuState extends MusicBeatState
 										MusicBeatState.switchState(new OptionsState());
 									case 'warpzone':
 										MusicBeatState.switchState(new WarpState());
+                                                                                PlayState.isWarp = true;
 								}
 							});
 						}
