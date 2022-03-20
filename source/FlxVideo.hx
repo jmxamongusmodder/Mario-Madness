@@ -132,6 +132,7 @@ class FlxVideo extends FlxBasic {
 		vlcBitmap.dispose();
 		vlcBitmap.stop();
                 vlcBitmap.volume == 0; // impostor suggested this to me.
+		vlcBitmap.onComplete = onVLCSkipped; // why?
 		trace("Skipped the cutscene.");
 
 		if (FlxG.game.contains(vlcBitmap))
