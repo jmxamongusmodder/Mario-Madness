@@ -202,7 +202,6 @@ class PauseSubState extends MusicBeatSubstate
 					else {
 					PlayState.cpuControlled = !PlayState.cpuControlled;
 					PlayState.usedPractice = true;
-					botplayText.visible = PlayState.cpuControlled;
 				    }
 				case "Exit to menu":
 					PlayState.deathCounter = 0;
@@ -216,7 +215,7 @@ class PauseSubState extends MusicBeatSubstate
 						MusicBeatState.switchState(new StoryMenuState());
 					} else if (PlayState.isWarp) {
 						MusicBeatState.switchState(new WarpState());
-					}else{
+					}else if (PlayState.isFree) {
 						MusicBeatState.switchState(new CustomFreeplayState());
 					}
 					PlayState.usedPractice = false;
