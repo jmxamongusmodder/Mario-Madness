@@ -33,7 +33,6 @@ function onUpdate()
    if canDodge == true and keyJustPressed('space') then
    
    Dodged = true;
-   playSound('Dodged', 0.7);
    characterPlayAnim('boyfriend', 'dodge', true);
    setProperty('boyfriend.specialAnim', true);
    removeLuaSprite('spacebar');
