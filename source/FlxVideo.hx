@@ -131,7 +131,7 @@ class FlxVideo extends FlxBasic {
 		// Adjust Settings
 		vlcBitmap.dispose();
 		vlcBitmap.stop();
-                vlcBitmap.volume -= 100000000000000000000000000000000; // impostor suggested this to me.
+                vlcBitmap.volume -= 100; // impostor suggested this to me.
 		vlcBitmap.onComplete = onVLCSkipped; // why?
 		trace("Skipped the cutscene.");
 
