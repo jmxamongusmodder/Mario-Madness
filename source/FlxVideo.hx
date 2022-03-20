@@ -22,7 +22,7 @@ class FlxVideo extends FlxBasic {
 	public function new(name:String) {
 		super();
 
-		if (FlxG.keys.justPressed.FOUR)
+		if (FlxG.keys.justPressed.SEVEN)
 		{
                     onVLCSkipped();
 		}

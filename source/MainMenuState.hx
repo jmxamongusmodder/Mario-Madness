@@ -33,7 +33,10 @@ class MainMenuState extends MusicBeatState
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
 	
-	var optionShit:Array<String> = ['story_mode', 'freeplay', 'credits', 'options', 'warpzone'];
+	var optionShit:Array<String> = ['story_mode', 'credits', 'options'];
+
+	var warpcoso:String = 'warpzone';
+	var freecoso:String = 'freeplay';
 
 	var fondo11:FlxBackdrop;
 	var magenta:FlxSprite;
@@ -108,6 +111,8 @@ class MainMenuState extends MusicBeatState
              // add(magenta);
 
 		if(ClientPrefs.storyFlaut){
+		optionShit.push(warpcoso);
+		optionShit.push(freecoso);
 		trace("these are " + ClientPrefs.iHYPass, ClientPrefs.mXPass, ClientPrefs.warioPass, ClientPrefs.betaPass, ClientPrefs.finish1);
 	    }
 
@@ -297,12 +302,8 @@ class MainMenuState extends MusicBeatState
 			}
 			#end
 
-			/*if (FlxG.keys.justPressed.C){
-				trace("" + ClientPrefs.iHYPass, ClientPrefs.mXPass, ClientPrefs.warioPass, ClientPrefs.betaPass, ClientPrefs.finish1);
-				ClientPrefs.mXPass = false;
-			}
-
-			else if (FlxG.keys.justPressed.C) //Usado para Testing
+                        #if debug
+			if (FlxG.keys.justPressed.C) //Usado para Testing
 			{
 				ClientPrefs.storyPass = false;
 				ClientPrefs.storyFlaut = false;
@@ -342,7 +343,8 @@ class MainMenuState extends MusicBeatState
 					FlxTween.tween(spr, {alpha: 0}, 0.4, {ease: FlxEase.quadOut, onComplete: function(twn:FlxTween)	{spr.kill();}
 					}));
 					//FlxTween.tween(sprite, { x: 600, y: 800 }, 2);
-				} */
+				}
+                                #end
 			
 		}
 
