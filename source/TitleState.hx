@@ -48,6 +48,7 @@ class TitleState extends MusicBeatState
 	var couple:FlxSprite;
 	var estatica:FlxSprite;
 	var bgblue:FlxSprite;
+	var titleText2:FlxSprite;
 
 	var curWacky:Array<String> = [];
 
@@ -209,6 +210,12 @@ class TitleState extends MusicBeatState
 		estatica.updateHitbox();
 		add(estatica);
 
+		var titleText2 = new FlxSprite(0, 660).loadGraphic(Paths.image('ilyluigikid'));
+		titleText2.setGraphicSize(Std.int(titleText2.width * 0.8));
+		titleText2.updateHitbox();
+                titleText2.visible = false;
+		add(titleText2);
+
 		// FlxTween.tween(logoBl, {y: logoBl.y + 50}, 0.6, {ease: FlxEase.quadInOut, type: PINGPONG});
 		// FlxTween.tween(logo, {y: logoBl.y + 50}, 0.6, {ease: FlxEase.quadInOut, type: PINGPONG, startDelay: 0.1});
 
@@ -269,7 +276,7 @@ class TitleState extends MusicBeatState
 
 		if (FlxG.keys.justPressed.F)
 		{
-			FlxG.fullscreen = !FlxG.fullscreen;
+                   titleText2.visible = true;
 		}
 
 		var pressedEnter:Bool = FlxG.keys.justPressed.ENTER;
@@ -381,7 +388,7 @@ class TitleState extends MusicBeatState
 			switch (curBeat)
 			{
 				case 1:
-					skipIntro(); //EXTREME CODING 10000 IQ
+					skipIntro(); // STOOPID
 			}
 		}
 	}
