@@ -11,6 +11,7 @@ import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.math.FlxMath;
 import flixel.text.FlxText;
 import flixel.util.FlxColor;
+import flixel.input.keyboard.FlxKey;
 import flixel.util.FlxTimer;
 import flixel.tweens.FlxTween;
 import lime.utils.Assets;
@@ -153,7 +154,7 @@ class WarpState extends MusicBeatState
 			MusicBeatState.switchState(new MainMenuState());
 		}
 
-		if (controls.SEVEN)
+		if (FlxG.keys.justPressed.SEVEN)
 		{
 			FlxG.sound.music.stop();
 			FlxG.sound.play(Paths.sound('cancelMenu'));
