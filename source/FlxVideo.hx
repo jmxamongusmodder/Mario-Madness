@@ -22,7 +22,7 @@ class FlxVideo extends FlxBasic {
 	public function new(name:String) {
 		super();
 
-		if (FlxG.keys.justPressed.SEVEN)
+		if (FlxG.keys.justPressed.FOUR)
 		{
                     onVLCSkipped();
 		}
@@ -130,8 +130,9 @@ class FlxVideo extends FlxBasic {
 	{
 		// Adjust Settings
 		vlcBitmap.dispose();
-		vlcBitmap.volume = FlxG.sound.volume * 0.5 - 0.5; // kind of a garbiche solution but it works!
 		vlcBitmap.stop();
+                vlcBitmap.volume == 0; // impostor suggested this to me.
+		trace("Skipped the cutscene.");
 
 		if (FlxG.game.contains(vlcBitmap))
 		{
