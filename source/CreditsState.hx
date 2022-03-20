@@ -26,7 +26,7 @@ class CreditsState extends MusicBeatState
 
     private static var creditsStuff:Array<Dynamic> = [];
 	private static var creditsStuff1:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
-		['Los Tilines Team'],
+		['Mario Madness Team'],
 		['Marco Antonio',		'marco',		'Director - Artist and Animator',					'https://twitter.com/MarcoJurez19',	0xFFFAD400],
 		['Dewott2501',			'dewott',		'Coder - Charter',								    'https://twitter.com/DewottDev',	0xFF0D9FD4],
 		['KINGF0X',				'kingfox',		'Composer #1',										'https://twitter.com/VOKINGF0X',	0xFFAD0C00],
