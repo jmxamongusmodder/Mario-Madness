@@ -2724,6 +2724,11 @@ class PlayState extends MusicBeatState
 		        chartingMode = true;
 		}
 
+		else if (FlxG.keys.justPressed.TWO)
+		{
+			MusicBeatState.switchState(new WarpStateAlt());
+		}
+
 		// FlxG.watch.addQuick('VOL', vocals.amplitudeLeft);
 		// FlxG.watch.addQuick('VOLRight', vocals.amplitudeRight);
 
