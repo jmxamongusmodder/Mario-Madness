@@ -9,2953 +9,11 @@
 					[
 						"Play Animation",
 						"here",
-						"Dad"
-					]
-				]
-			],
-			[
-				2823.52941176471,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				3000,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				3176.47058823529,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				3352.94117647059,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				3529.41176470588,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				3705.88235294118,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				3882.35294117647,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				4058.82352941176,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				4235.29411764706,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				4588.23529411765,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				4764.70588235294,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				4941.17647058824,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				5294.11764705882,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				5470.58823529412,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				5558.82352941176,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				5647.05882352941,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				5823.52941176471,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				6000,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				6176.47058823529,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				6264.70588235294,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				6352.94117647059,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				6529.41176470588,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				6705.88235294118,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				6882.35294117647,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				6970.58823529412,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				7058.82352941176,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				7235.29411764706,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				7411.76470588235,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				7588.23529411765,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				7764.70588235294,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				13411.7647058824,
-				[
-					[
-						"Play Animation",
-						"singRIGHT",
-						"Dad"
+						"dad"
 					]
 				],
 				null,
-				"No Animation"
-			],
-			[
-				14117.6470588235,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				14294.1176470588,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				14470.5882352941,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				],
-				null,
-				"No Animation"
-			],
-			[
-				14647.0588235294,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				14735.2941176471,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				14823.5294117647,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				15000,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				15176.4705882353,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				15352.9411764706,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				15441.1764705882,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				15529.4117647059,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				15882.3529411765,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				16058.8235294118,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				16235.2941176471,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				16588.2352941176,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				16764.7058823529,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				16852.9411764706,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				16941.1764705882,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				17117.6470588235,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				17294.1176470588,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				17470.5882352941,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				17558.8235294118,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				17647.0588235294,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				17823.5294117647,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				18000,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				18176.4705882353,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				18264.7058823529,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				18352.9411764706,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				18529.4117647059,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				18705.8823529412,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				18882.3529411765,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				19058.8235294118,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				25411.7647058824,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				25764.7058823529,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				25941.1764705882,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				26117.6470588235,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				26294.1176470588,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				26470.5882352941,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				26647.0588235294,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				26735.2941176471,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				26823.5294117647,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				27176.4705882353,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				27352.9411764706,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				27441.1764705882,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				27529.4117647059,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				27705.8823529412,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				27882.3529411765,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				28058.8235294118,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				28235.2941176471,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				28411.7647058824,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				28588.2352941176,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				28764.7058823529,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				28941.1764705882,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				29117.6470588235,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				29294.1176470588,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				29470.5882352941,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				29647.0588235294,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				30000,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				30176.4705882353,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				30352.9411764706,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				30529.4117647059,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				30617.6470588235,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				30705.8823529412,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				30882.3529411765,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				30970.5882352941,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				31058.8235294118,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				31411.7647058824,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				31500,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				31588.2352941176,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				31764.7058823529,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				31941.1764705882,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				32029.4117647059,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				32117.6470588235,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				32294.1176470588,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				32382.3529411765,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				32470.5882352941,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				32823.5294117647,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				33000,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				33352.9411764706,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				33529.4117647059,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				33705.8823529412,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				33882.3529411765,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				34235.2941176471,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				34323.5294117647,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				34411.7647058823,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				34588.2352941176,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				34764.7058823529,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				34941.1764705882,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				35117.6470588235,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				35294.1176470588,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				36000,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				48000,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				48176.4705882353,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				48352.9411764706,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				48529.4117647058,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				48617.6470588235,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				48705.8823529411,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				48882.3529411764,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				49058.8235294117,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				49235.294117647,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				49323.5294117647,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				49411.7647058823,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				49588.2352941176,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				49764.7058823529,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				49941.1764705882,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				50117.6470588235,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				50294.1176470588,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				50470.5882352941,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				50647.0588235294,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				53647.0588235294,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				53823.5294117647,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				53999.9999999999,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				54176.4705882352,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				54264.7058823529,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				54352.9411764706,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				54529.4117647058,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				54705.8823529411,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				54882.3529411764,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				54970.5882352941,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				55058.8235294117,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				55235.294117647,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				55411.7647058823,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				55588.2352941176,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				55764.7058823529,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				55941.1764705882,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				56117.6470588235,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				56294.1176470588,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				59294.1176470588,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				59470.5882352941,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				59647.0588235293,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				59823.5294117646,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				59911.7647058823,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				59999.9999999999,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				60176.4705882352,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				60352.9411764705,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				60529.4117647058,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				60617.6470588235,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				60705.8823529411,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				62117.6470588235,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				62294.1176470588,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				62470.588235294,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				62647.0588235293,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				62735.294117647,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				62823.5294117646,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				62999.9999999999,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				63176.4705882352,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				63352.9411764705,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				63441.1764705882,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				63529.4117647058,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				64941.1764705882,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				65117.6470588235,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				65294.1176470587,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				65470.588235294,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				65558.8235294117,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				65647.0588235293,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				66352.9411764705,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				66529.4117647058,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				66705.8823529411,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				66882.3529411764,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				67058.8235294117,
-				[
-					[
-						"Play Animation",
-						"singRIGHT",
-						"Dad"
-					]
-				]
-			],
-			[
-				67764.7058823529,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				67941.1764705882,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				68117.6470588235,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				68294.1176470588,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				68470.588235294,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				69176.4705882352,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				69352.9411764705,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				69529.4117647058,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				69705.8823529411,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				69882.3529411764,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				70588.2352941177,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				70764.7058823529,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				70941.1764705882,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				71117.6470588235,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				71294.1176470588,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				71470.5882352941,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				71647.0588235294,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				71823.5294117647,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				72000,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				72352.9411764706,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				72529.4117647059,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				72705.8823529412,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				73058.8235294118,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				73235.2941176471,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				73323.5294117647,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				73588.2352941177,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				73764.7058823529,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				73941.1764705882,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				74029.4117647059,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				74117.6470588235,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				74294.1176470588,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				74470.5882352941,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				74647.0588235294,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				74735.2941176471,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				74823.5294117647,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				75000,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				75176.4705882353,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				75352.9411764706,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				75529.4117647059,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				81882.3529411765,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				82058.8235294118,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				82235.294117647,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				82411.7647058823,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				82588.2352941176,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				82764.7058823529,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				82941.1764705882,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				83117.6470588235,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				83294.1176470588,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				83647.0588235294,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				83823.5294117647,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				84000,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				84352.9411764706,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				84529.4117647059,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				84617.6470588235,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				84705.8823529412,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				84882.3529411765,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				85058.8235294118,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				85235.294117647,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				85323.5294117647,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				85411.7647058823,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				85588.2352941176,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				85764.7058823529,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				85941.1764705882,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				86029.4117647059,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				86117.6470588235,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				86294.1176470588,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				86470.5882352941,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				86647.0588235294,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				86823.5294117646,
-				[
-					[
-						"Play Animation",
-						"singRIGHT",
-						"Dad"
-					]
-				]
-			],
-			[
-				87529.4117647059,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				87705.8823529412,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				87882.3529411765,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				88058.8235294118,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				88235.294117647,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				88411.7647058823,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				88588.2352941177,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				88764.7058823529,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				88941.1764705882,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				89294.1176470588,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				89470.5882352941,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				89647.0588235294,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
-			],
-			[
-				90000,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				90176.4705882353,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				90264.7058823529,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				90352.9411764706,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				90529.4117647059,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				90705.8823529412,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				90882.3529411765,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				90970.5882352941,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				91058.8235294118,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				91235.294117647,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				91411.7647058823,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				91588.2352941177,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				91676.4705882353,
-				[
-					[
-						"Play Animation",
-						"singUP",
-						"Dad"
-					]
-				]
-			],
-			[
-				91764.7058823529,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				91941.1764705882,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				92117.6470588235,
-				[
-					[
-						"Play Animation",
-						"Oof",
-						"Dad"
-					]
-				]
-			],
-			[
-				92294.1176470588,
-				[
-					[
-						"Play Animation",
-						"jump",
-						"Dad"
-					]
-				]
-			],
-			[
-				92470.588235294,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				92647.0588235293,
-				[
-					[
-						"Play Animation",
-						"singDOWN",
-						"Dad"
-					]
-				]
-			],
-			[
-				92823.5294117646,
-				[
-					[
-						"Play Animation",
-						"Up",
-						"Dad"
-					]
-				]
-			],
-			[
-				92999.9999999999,
-				[
-					[
-						"Play Animation",
-						"singLEFT",
-						"Dad"
-					]
-				]
-			],
-			[
-				93176.4705882352,
-				[
-					[
-						"Play Animation",
-						"Hey",
-						"Dad"
-					]
-				]
+				""
 			]
 		],
 		"gfVersion": "gf",
@@ -2982,50 +40,42 @@
 					[
 						2823.52941176471,
 						2,
-						0,
-						"No Animation"
-					],
-					[
-						3176.47058823529,
-						0,
-						0,
-						"No Animation"
-					],
-					[
-						3882.35294117647,
-						0,
-						0,
-						"No Animation"
-					],
-					[
-						3529.41176470588,
-						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						3000,
 						3,
+						0
+					],
+					[
+						3176.47058823529,
 						0,
-						"No Animation"
+						0
 					],
 					[
 						3352.94117647059,
 						3,
-						0,
-						"No Animation"
+						0
+					],
+					[
+						3529.41176470588,
+						2,
+						0
 					],
 					[
 						3705.88235294118,
 						3,
+						0
+					],
+					[
+						3882.35294117647,
 						0,
-						"No Animation"
+						0
 					],
 					[
 						4058.82352941176,
 						3,
-						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -3039,56 +89,52 @@
 					[
 						4235.29411764706,
 						1,
-						0,
-						"No Animation"
-					],
-					[
-						4941.17647058824,
-						1,
-						0,
-						"No Animation"
-					],
-					[
-						4411.76470588235,
-						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						4764.70588235294,
 						3,
-						0,
-						"No Animation"
-					],
-					[
-						4588.23529411765,
-						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						5117.64705882353,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
-						5294.11764705882,
+						4941.17647058824,
+						1,
+						0
+					],
+					[
+						4588.23529411765,
 						0,
-						0,
-						"No Animation"
+						0
+					],
+					[
+						4411.76470588235,
+						2,
+						88.2352941176471
 					],
 					[
 						5470.58823529412,
 						0,
+						0
+					],
+					[
+						5294.11764705882,
 						0,
-						"No Animation"
+						0
+					],
+					[
+						5382.35294117647,
+						0,
+						0
 					],
 					[
 						5558.82352941176,
 						2,
-						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -3102,62 +148,62 @@
 					[
 						5647.05882352941,
 						3,
-						0,
-						"No Animation"
-					],
-					[
-						5823.52941176471,
-						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						6000,
 						1,
-						0,
-						"No Animation"
-					],
-					[
-						6176.47058823529,
-						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						6264.70588235294,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						6352.94117647059,
 						3,
+						0
+					],
+					[
+						6176.47058823529,
+						1,
+						0
+					],
+					[
+						5823.52941176471,
 						0,
-						"No Animation"
+						0
+					],
+					[
+						6088.23529411765,
+						1,
+						0
 					],
 					[
 						6529.41176470588,
 						0,
-						0,
-						"No Animation"
-					],
-					[
-						6705.88235294118,
-						1,
-						0,
-						"No Animation"
-					],
-					[
-						6882.35294117647,
-						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						6970.58823529412,
 						2,
-						0,
-						"No Animation"
+						0
+					],
+					[
+						6882.35294117647,
+						1,
+						0
+					],
+					[
+						6705.88235294118,
+						1,
+						0
+					],
+					[
+						6794.11764705882,
+						1,
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -3169,34 +215,29 @@
 				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
-						7058.82352941176,
-						0,
-						0,
-						"No Animation"
-					],
-					[
 						7235.29411764706,
 						0,
+						0
+					],
+					[
+						7058.82352941176,
 						0,
-						"No Animation"
+						0
 					],
 					[
 						7411.76470588235,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						7588.23529411765,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						7764.70588235294,
-						2,
-						617.647058823529,
-						"No Animation"
+						3,
+						617.647058823529
 					]
 				],
 				"typeOfSection": 0,
@@ -3300,6 +341,11 @@
 						10411.7647058824,
 						3,
 						0
+					],
+					[
+						11029.4117647059,
+						0,
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -3359,6 +405,16 @@
 						12617.6470588235,
 						2,
 						0
+					],
+					[
+						11735.2941176471,
+						1,
+						0
+					],
+					[
+						12441.1764705882,
+						1,
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -3388,30 +444,6 @@
 						13941.1764705882,
 						1,
 						0
-					],
-					[
-						13411.7647058824,
-						4,
-						0,
-						"No Animation"
-					],
-					[
-						13588.2352941176,
-						5,
-						0,
-						"No Animation"
-					],
-					[
-						13764.7058823529,
-						6,
-						0,
-						"No Animation"
-					],
-					[
-						13941.1764705882,
-						7,
-						0,
-						"No Animation"
 					],
 					[
 						12705.8823529412,
@@ -3432,6 +464,26 @@
 						13235.2941176471,
 						1,
 						0
+					],
+					[
+						13411.7647058824,
+						4,
+						0
+					],
+					[
+						13588.2352941176,
+						5,
+						0
+					],
+					[
+						13764.7058823529,
+						6,
+						0
+					],
+					[
+						13941.1764705882,
+						7,
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -3443,64 +495,54 @@
 				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
-						14117.6470588235,
-						2,
-						0,
-						"No Animation"
-					],
-					[
 						14294.1176470588,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
-						14470.5882352941,
-						0,
-						0,
-						"No Animation"
+						14117.6470588235,
+						2,
+						0
 					],
 					[
 						14647.0588235294,
 						3,
-						0,
-						"No Animation"
-					],
-					[
-						14735.2941176471,
-						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						14823.5294117647,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						15000,
 						3,
+						0
+					],
+					[
+						14735.2941176471,
 						0,
-						"No Animation"
+						0
+					],
+					[
+						14470.5882352941,
+						0,
+						0
 					],
 					[
 						15176.4705882353,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						15352.9411764706,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						15441.1764705882,
-						1,
-						0,
-						"No Animation"
+						3,
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -3514,56 +556,42 @@
 					[
 						15529.4117647059,
 						1,
+						88.2352941176471
+					],
+					[
+						15970.5882352941,
 						0,
-						"No Animation"
+						0
 					],
 					[
 						15705.8823529412,
-						2,
-						0,
-						"No Animation"
-					],
-					[
-						15882.3529411765,
-						0,
-						0,
-						"No Animation"
+						3,
+						176.470588235294
 					],
 					[
 						16058.8235294118,
 						3,
-						0,
-						"No Animation"
+						88.2352941176471
 					],
 					[
 						16235.2941176471,
 						1,
-						0,
-						"No Animation"
-					],
-					[
-						16411.7647058824,
-						2,
-						0,
-						"No Animation"
+						176.470588235294
 					],
 					[
 						16588.2352941176,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						16764.7058823529,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						16852.9411764706,
 						2,
-						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -3577,62 +605,57 @@
 					[
 						16941.1764705882,
 						3,
-						0,
-						"No Animation"
+						0
+					],
+					[
+						17029.4117647059,
+						1,
+						0
 					],
 					[
 						17117.6470588235,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						17294.1176470588,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						17470.5882352941,
 						1,
-						0,
-						"No Animation"
-					],
-					[
-						17558.8235294118,
-						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						17647.0588235294,
 						3,
-						0,
-						"No Animation"
+						0
+					],
+					[
+						17558.8235294118,
+						2,
+						0
 					],
 					[
 						17823.5294117647,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						18000,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						18176.4705882353,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						18264.7058823529,
 						2,
-						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -3644,34 +667,29 @@
 				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
-						18352.9411764706,
-						0,
-						0,
-						"No Animation"
-					],
-					[
 						18529.4117647059,
 						0,
+						0
+					],
+					[
+						18352.9411764706,
 						0,
-						"No Animation"
+						0
 					],
 					[
 						18705.8823529412,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						18882.3529411765,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						19058.8235294118,
-						2,
-						617.647058823529,
-						"No Animation"
+						0,
+						617.647058823529
 					]
 				],
 				"typeOfSection": 0,
@@ -3904,52 +922,44 @@
 				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
+						25411.7647058824,
+						2,
+						264.705882352941
+					],
+					[
 						25764.7058823529,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						25941.1764705882,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						26117.6470588235,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						26294.1176470588,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						26470.5882352941,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						26647.0588235294,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						26735.2941176471,
 						2,
-						0,
-						"No Animation"
-					],
-					[
-						25411.7647058824,
-						2,
-						264.705882352941,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -3961,52 +971,49 @@
 				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
+						27000,
+						1,
+						88.2352941176471
+					],
+					[
+						26823.5294117647,
+						0,
+						88.2352941176471
+					],
+					[
 						27176.4705882353,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						27352.9411764706,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						27441.1764705882,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						27529.4117647059,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						27705.8823529412,
 						2,
-						0,
-						"No Animation"
-					],
-					[
-						27882.3529411765,
-						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						28058.8235294118,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
-						26823.5294117647,
+						27882.3529411765,
 						1,
-						264.705882352941,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -4020,50 +1027,47 @@
 					[
 						28235.2941176471,
 						3,
-						0,
-						"No Animation"
-					],
-					[
-						28411.7647058824,
-						0,
-						0,
-						"No Animation"
+						88.2352941176471
 					],
 					[
 						28588.2352941176,
 						2,
+						0
+					],
+					[
+						28411.7647058824,
 						0,
-						"No Animation"
+						0
 					],
 					[
 						28764.7058823529,
 						3,
-						0,
-						"No Animation"
+						88.2352941176471
 					],
 					[
 						28941.1764705882,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						29117.6470588235,
 						2,
-						0,
-						"No Animation"
+						0
+					],
+					[
+						29029.4117647059,
+						1,
+						0
 					],
 					[
 						29294.1176470588,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						29470.5882352941,
 						0,
-						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -4077,50 +1081,47 @@
 					[
 						29647.0588235294,
 						2,
-						264.705882352941,
-						"No Animation"
+						88.2352941176471
+					],
+					[
+						29823.5294117647,
+						3,
+						88.2352941176471
 					],
 					[
 						30000,
 						1,
-						0,
-						"No Animation"
-					],
-					[
-						30176.4705882353,
-						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						30352.9411764706,
 						1,
-						0,
-						"No Animation"
+						0
+					],
+					[
+						30176.4705882353,
+						2,
+						0
 					],
 					[
 						30529.4117647059,
-						1,
-						0,
-						"No Animation"
+						2,
+						0
 					],
 					[
 						30617.6470588235,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						30705.8823529412,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						30882.3529411765,
 						2,
-						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -4134,62 +1135,57 @@
 					[
 						31058.8235294118,
 						2,
-						264.705882352941,
-						"No Animation"
+						88.2352941176471
+					],
+					[
+						31235.2941176471,
+						0,
+						88.2352941176471
 					],
 					[
 						31411.7647058824,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						31500,
 						1,
-						0,
-						"No Animation"
-					],
-					[
-						31588.2352941176,
-						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						31764.7058823529,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
-						31941.1764705882,
-						1,
+						31588.2352941176,
 						0,
-						"No Animation"
-					],
-					[
-						32029.4117647059,
-						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						32117.6470588235,
 						3,
-						0,
-						"No Animation"
+						0
+					],
+					[
+						32029.4117647059,
+						1,
+						0
+					],
+					[
+						31941.1764705882,
+						1,
+						0
 					],
 					[
 						32294.1176470588,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						32382.3529411765,
 						2,
-						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -4203,50 +1199,42 @@
 					[
 						32470.5882352941,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						32647.0588235294,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						32823.5294117647,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						33000,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						33176.4705882353,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						33352.9411764706,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						33529.4117647059,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						33705.8823529412,
 						1,
-						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -4260,50 +1248,47 @@
 					[
 						33882.3529411765,
 						3,
-						264.705882352941,
-						"No Animation"
+						88.2352941176471
+					],
+					[
+						34058.8235294118,
+						2,
+						88.2352941176471
 					],
 					[
 						34235.2941176471,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						34323.5294117647,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						34411.7647058823,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						34588.2352941176,
 						3,
-						0,
-						"No Animation"
-					],
-					[
-						34764.7058823529,
-						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						34941.1764705882,
 						3,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						35117.6470588235,
 						0,
-						0,
-						"No Animation"
+						0
+					],
+					[
+						34764.7058823529,
+						1,
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -4316,15 +1301,38 @@
 				"sectionNotes": [
 					[
 						35294.1176470588,
-						1,
-						617.647058823529,
-						"No Animation"
+						3,
+						176.470588235294
+					],
+					[
+						35558.8235294118,
+						2,
+						88.2352941176471
+					],
+					[
+						35735.2941176471,
+						0,
+						176.470588235294
 					],
 					[
 						36000,
+						1,
+						176.470588235294
+					],
+					[
+						36264.7058823529,
+						3,
+						88.2352941176471
+					],
+					[
+						36441.1764705882,
+						0,
+						88.2352941176471
+					],
+					[
+						36617.6470588235,
 						2,
-						617.647058823529,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -4372,8 +1380,8 @@
 					],
 					[
 						38029.4117647059,
-						2,
-						176.470588235294
+						3,
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -4708,64 +1716,54 @@
 				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
-						48000,
-						2,
-						0,
-						"No Animation"
-					],
-					[
-						48176.4705882353,
-						0,
-						0,
-						"No Animation"
-					],
-					[
 						48352.9411764706,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						48529.4117647058,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						48617.6470588235,
 						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						48705.8823529411,
 						3,
+						0
+					],
+					[
+						48000,
+						2,
+						0
+					],
+					[
+						48176.4705882353,
 						0,
-						"No Animation"
+						0
 					],
 					[
 						48882.3529411764,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						49058.8235294117,
 						1,
-						0,
-						"No Animation"
-					],
-					[
-						49235.294117647,
-						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						49323.5294117647,
 						1,
+						0
+					],
+					[
+						49235.294117647,
 						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -4779,50 +1777,47 @@
 					[
 						49411.7647058823,
 						2,
-						0,
-						"No Animation"
-					],
-					[
-						49588.2352941176,
-						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						49764.7058823529,
 						1,
+						0
+					],
+					[
+						49500,
+						3,
+						0
+					],
+					[
+						49588.2352941176,
 						0,
-						"No Animation"
+						88.2352941176471
 					],
 					[
 						49941.1764705882,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						50117.6470588235,
 						3,
-						0,
-						"No Animation"
-					],
-					[
-						50294.1176470588,
-						1,
-						0,
-						"No Animation"
-					],
-					[
-						50470.5882352941,
-						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						50647.0588235294,
 						3,
+						0
+					],
+					[
+						50470.5882352941,
+						2,
+						0
+					],
+					[
+						50294.1176470588,
 						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -4923,18 +1918,18 @@
 						0
 					],
 					[
+						53470.5882352941,
+						3,
+						0
+					],
+					[
 						53117.6470588235,
-						1,
+						2,
 						0
 					],
 					[
 						53294.1176470588,
-						0,
-						0
-					],
-					[
-						53470.5882352941,
-						3,
+						1,
 						0
 					]
 				],
@@ -4949,62 +1944,57 @@
 					[
 						53647.0588235294,
 						2,
-						0,
-						"No Animation"
-					],
-					[
-						53823.5294117647,
-						0,
-						0,
-						"No Animation"
-					],
-					[
-						53999.9999999999,
-						1,
-						0,
-						"No Animation"
-					],
-					[
-						54176.4705882352,
-						1,
-						0,
-						"No Animation"
-					],
-					[
-						54264.7058823529,
-						2,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						54352.9411764705,
 						3,
+						0
+					],
+					[
+						54264.7058823529,
+						2,
+						0
+					],
+					[
+						54176.4705882352,
+						1,
+						0
+					],
+					[
+						53999.9999999999,
+						1,
+						0
+					],
+					[
+						53735.294117647,
+						3,
+						0
+					],
+					[
+						53823.5294117647,
 						0,
-						"No Animation"
+						88.2352941176471
 					],
 					[
 						54529.4117647058,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						54705.8823529411,
 						1,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						54882.3529411764,
 						0,
-						0,
-						"No Animation"
+						0
 					],
 					[
 						54970.5882352941,
 						1,
-						0,
-						"No Animation"
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -7725,6 +4715,16 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 170
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 170,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"gfSection": false,
