@@ -25,8 +25,8 @@ class PauseSubState extends MusicBeatSubstate
 	var autor:String = '';
 
 	var pauseMusic:FlxSound;
-	var chartingText:FlxText; // Charting State yes
-//	var botplayText:FlxText;
+	var chartingText:FlxText;
+	var botplayText:FlxText;
 
 	public static var transCamera:FlxCamera;
 
@@ -95,8 +95,8 @@ class PauseSubState extends MusicBeatSubstate
 			autor = 'by KennyL';
 			case 'Forbidden Star':
 			autor = 'by KINGF0X';
-			case 'Sussy':
-			autor = 'by Kade';
+			case 'Sprint':
+			autor = 'by nintendo??';
 		}
 		levelDifficulty.text += autor;
 		levelDifficulty.scrollFactor.set();
@@ -111,13 +111,13 @@ class PauseSubState extends MusicBeatSubstate
 		blueballedTxt.updateHitbox();
 		add(blueballedTxt);*/
 
-/*		botplayText = new FlxText(20, FlxG.height - 40, 0, "BOTPLAY", 32);
+		botplayText = new FlxText(20, FlxG.height - 40, 0, "BOTPLAY", 32);
 		botplayText.scrollFactor.set();
 		botplayText.setFormat(Paths.font('vcr.ttf'), 32);
 		botplayText.x = FlxG.width - (botplayText.width + 20);
 		botplayText.updateHitbox();
 		botplayText.visible = PlayState.cpuControlled;
-		add(botplayText);*/
+		add(botplayText);
 
 //		blueballedTxt.alpha = 0;
 		levelDifficulty.alpha = 0;
@@ -195,14 +195,10 @@ class PauseSubState extends MusicBeatSubstate
 				case "Leave Charting Mode":
 					restartSong();
 					PlayState.chartingMode = false;
-				case 'Botplay':
-					if(!ClientPrefs.carPass){
-					FlxG.sound.play(Paths.sound('cancelMenu'));
-					}
-					else {
+				case 'Toggle Botplay':
 					PlayState.cpuControlled = !PlayState.cpuControlled;
 					PlayState.usedPractice = true;
-				    }
+                  // 			menuItemsOG.insert(3 + num, 'Remove Botplay');
 				case "Exit to menu":
 					PlayState.deathCounter = 0;
 					PlayState.seenCutscene = false;

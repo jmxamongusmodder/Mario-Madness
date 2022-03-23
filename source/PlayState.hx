@@ -64,7 +64,7 @@ class PlayState extends MusicBeatState
 	public static var STRUM_X_MIDDLESCROLL = -278;
 
 	public static var ratingStuff:Array<Dynamic> = [
-		['DEAD', 0.2], //From 0% to 19%
+		['Your Dead', 0.2], //From 0% to 19%
 		['Gross', 0.4], //From 20% to 39%
 		['Awful', 0.5], //From 40% to 49%
 		['Bad', 0.6], //From 50% to 59%
