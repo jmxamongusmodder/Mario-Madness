@@ -305,7 +305,7 @@ class MainMenuState extends MusicBeatState
 			#end
 
                         #if debug
-			if (FlxG.keys.justPressed.C) //Usado para Testing
+			if (FlxG.keys.justPressed.C && ClientPrefs.carPass) //Usado para Testing
 			{
 				ClientPrefs.storyPass = false;
 				ClientPrefs.storyFlaut = false;
@@ -317,7 +317,7 @@ class MainMenuState extends MusicBeatState
 				ClientPrefs.saveSettings();
 			}
 
-			else if (FlxG.keys.justPressed.FOUR) //Usado para Testing
+			else if (FlxG.keys.justPressed.FOUR && ClientPrefs.carPass) //Usado para Testing
 			{
 					ClientPrefs.storyPass = true;
 					ClientPrefs.storyFlaut = true;
@@ -329,7 +329,7 @@ class MainMenuState extends MusicBeatState
 					ClientPrefs.saveSettings();
 			}
 
-			else if (FlxG.keys.justPressed.NINE) //usado para testing too
+			else if (FlxG.keys.justPressed.NINE && ClientPrefs.carPass) //usado para testing too
 				{
 					selectedSomethin = true;
 					FlxG.sound.play(Paths.sound('flauta'));
@@ -356,6 +356,7 @@ class MainMenuState extends MusicBeatState
 				{
 				smOpen = true;
 				FlxG.sound.play(Paths.sound('abrirsm'));
+				MusicBeatState.switchState(new FreeplayState());
 
 				if (!tieneflauta)
 				{
@@ -363,6 +364,7 @@ class MainMenuState extends MusicBeatState
 			    }
 				else
 				submenu.animation.play('abrirF');
+				MusicBeatState.switchState(new FreeplayState());
 
 			    }
 			}
@@ -395,6 +397,7 @@ class MainMenuState extends MusicBeatState
 				smOpen = false;
 				FlxG.sound.play(Paths.sound('abrirsm'));
 				submenu.animation.play('cerrar');
+				MusicBeatState.switchState(new FreeplayState());
 				}
 		}
 
