@@ -76,7 +76,6 @@ class CustomFreeplayState extends MusicBeatState
 		ClientPrefs.framerate = PlayState.fpsthing;
 		
 		#if desktop
-		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In Freeplay", null);
 		#end
 
@@ -113,21 +112,19 @@ class CustomFreeplayState extends MusicBeatState
 			{
 				canciones = canciones2;
 			}
-        else
+                        else
 			{
 				canciones = canciones0;
 			}
 
 		boxgrp = new FlxTypedSpriteGroup<FlxSprite>();
-				for (i in 0...canciones.length)
-				{
+		for (i in 0...canciones.length)
+		{
 	
-					var char:FlxSprite = new FlxSprite(420 * fuck , 100).loadGraphic(Paths.image('modstuff/freeplay/charicon/Char' + canciones[i][2]));
-					boxgrp.add(char);
-
-					fuck += 1;
-					
-				}
+			var char:FlxSprite = new FlxSprite(420 * fuck , 100).loadGraphic(Paths.image('modstuff/freeplay/charicon/Char' + canciones[i][2]));
+			boxgrp.add(char);
+			fuck += 1;	
+	        }
 		add(boxgrp);
 
 
@@ -141,9 +138,7 @@ class CustomFreeplayState extends MusicBeatState
 				optionText.x -= 70;
 			}
 			optionText.forceX = optionText.x;
-			//optionText.yMult = 90;
 			optionText.targetY = i;
-			//grpOptions.add(optionText);
 		}
 
 		cartel = new FlxSprite(0, 20).loadGraphic(Paths.image('modstuff/freeplay/HUD_Freeplay_1'));
@@ -170,10 +165,10 @@ class CustomFreeplayState extends MusicBeatState
 	override function update(elapsed:Float)
 	{
 		if(!obo)
-			{
-				caminar();
-				obo = true;
-			}
+		{
+			caminar();
+			obo = true;
+		}
 		estatica.animation.play('idle');
 
 		if (FlxG.sound.music.volume < 0.7)
@@ -211,7 +206,7 @@ class CustomFreeplayState extends MusicBeatState
 			FlxG.sound.music.volume = 0;
 			FreeplayState.destroyFreeplayVocals();
 			  };
-	    }
+	         }
 
 		if (controls.BACK)
 		{
