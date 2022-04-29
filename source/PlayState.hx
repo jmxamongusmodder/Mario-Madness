@@ -266,7 +266,6 @@ class PlayState extends MusicBeatState
 	var bfcolgao:FlxSprite;
 	var lluvia:BGSprite;
 
-
 	public static var campaignScore:Int = 0;
 	public static var campaignMisses:Int = 0;
 	public static var seenCutscene:Bool = false;
@@ -282,7 +281,6 @@ class PlayState extends MusicBeatState
 	var songLength:Float = 0;
 
 	#if desktop
-	// Discord RPC variables
 	var storyDifficultyText:String = "";
 	var detailsText:String = "";
 	var detailsPausedText:String = "";
@@ -310,7 +308,6 @@ class PlayState extends MusicBeatState
 			FlxG.sound.music.stop();
 
 		practiceMode = false;
-		// var gameCam:FlxCamera = FlxG.camera;
 		camGame = new FlxCamera();
 		camEst = new FlxCamera();
 		camHUD = new FlxCamera();
@@ -327,7 +324,6 @@ class PlayState extends MusicBeatState
 
 		FlxCamera.defaultCameras = [camGame];
 		CustomFadeTransition.nextCamera = camOther;
-		//FlxG.cameras.setDefaultDrawTarget(camGame, true);
 
 		persistentUpdate = true;
 		persistentDraw = true;
@@ -437,7 +433,7 @@ class PlayState extends MusicBeatState
 
 			case 'execlassic': //Mario.exe Classic
 
-			GameOverSubstate.characterName = 'bfexe';
+			        GameOverSubstate.characterName = 'bfexe';
 
 				var bg:BGSprite = new BGSprite('mario/EXE1/Brick3', -100, -100, 0.45, 0.45);
 				bg.setGraphicSize(Std.int(bg.width * 1.3));
@@ -2138,6 +2134,7 @@ class PlayState extends MusicBeatState
 	private function generateSong(dataPath:String):Void
 	{
 		// FlxG.log.add(ChartParser.parse());
+//		trace("sussy baka");
 
 		var songData = SONG;
 		Conductor.changeBPM(songData.bpm);
@@ -2157,7 +2154,7 @@ class PlayState extends MusicBeatState
 
 		var noteData:Array<SwagSection>;
 
-		// NEW SHIT
+		// NEW STUFF
 		noteData = songData.notes;
 
 		var playerCounter:Int = 0;
@@ -2307,7 +2304,7 @@ class PlayState extends MusicBeatState
 
 		switch(event[2]) {
 			case 'Kill Henchmen': //Better timing so that the kill sound matches the beat intended
-				return 280; //Plays 280ms before the actual position
+				return 285; //Plays 285ms before the actual position
 		}
 		return 0;
 	}
@@ -3656,6 +3653,9 @@ class PlayState extends MusicBeatState
 		case 'Triggers IHY':
 			var triggerHate:Float = Std.parseFloat(value1);
 			if(Math.isNaN(triggerHate)) triggerHate = 0;
+		case 'Sprint YAHOO':
+			dad.playAnim('yahoo', true);
+		        trace("sprint mario went yahoo!");
 
             switch(triggerHate){
 				case 0:
